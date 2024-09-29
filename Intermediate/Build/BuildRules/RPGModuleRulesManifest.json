@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\UE5\\Unreal Projects\\RPG\\Intermediate\\Source\\RPG.Build.cs",
+		"D:\\UE5\\Unreal Projects\\RPG\\Intermediate\\Source\\RPG.Target.cs",
+		"D:\\UE5\\Unreal Projects\\RPG\\Intermediate\\Source\\RPGClient.Target.cs",
+		"D:\\UE5\\Unreal Projects\\RPG\\Intermediate\\Source\\RPGEditor.Target.cs",
+		"D:\\UE5\\Unreal Projects\\RPG\\Intermediate\\Source\\RPGServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
